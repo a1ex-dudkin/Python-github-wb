@@ -11,3 +11,6 @@ def perimeter(a, b):
 
 def test():
     return nothing
+
+def test1():
+    return nothing
